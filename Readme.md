@@ -8,7 +8,7 @@ O **maps_flutter** é um projeto teste usando uma API do Google Maps. O aplicati
 A API do Google Maps é simples e pública, além de retornar um mapa dinâmico, junto a outros plugins, é possível adicionar **dezenas de funcionalidades**. 
 ```mermaid
 graph LR
-A[Você] --> B((API))`enter code here`
+A[Você] --> B((API))
 B --> C[Google Maps]
 C --> B
 B --> A
